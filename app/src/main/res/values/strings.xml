@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CiclosVida</string>
+
+    <string name="botonsuma">Suma + 1</string>
+    <string name="cero">0</string>
+    <string name="restart">restart</string>
+    <string name="nombre">Escriba su nombre</string>
+</resources>
